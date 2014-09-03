@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-depart
+It'is a simple example of commit file
