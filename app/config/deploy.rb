@@ -5,7 +5,7 @@ set :use_sudo,	  false
 set :deploy_to,   "/home/maman/Documents/remote/E-juriste"    
 set :app_path,    "app"
 
-set :repository,  "maman@127.0.0.1:/Documents/E-juriste"
+set :repository,  "file:///home/maman/Documents/E-juriste"
 #set :deploy_via,  :copy
 set :scm,         :git
 # Or: `accurev`, `bzr`, `cvs`, `darcs`, `subversion`, `mercurial`, `perforce`, or `none`
