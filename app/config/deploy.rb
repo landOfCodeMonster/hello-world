@@ -2,7 +2,7 @@ set :application, "E-juriste"
 set :domain,      "127.0.0.1"
 set :user,		  "maman"
 set :use_sudo,	  false
-set :deploy_to,   "/home/maman/Documents/remote/E-juriste"    
+set :deploy_to,   "/var/www/html/E-juriste"    
 set :app_path,    "app"
 
 set :repository,  "file:///home/maman/Documents/E-juriste"
