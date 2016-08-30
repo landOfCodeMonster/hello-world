@@ -1,8 +1,8 @@
 set :application, "E-juriste"
-set :domain,      "127.0.0.1"
-set :user,		  "maman"
+set :domain,      "31.170.165.197"
+set :user,		  "u995900660"
 set :use_sudo,	  false
-set :deploy_to,   "/var/www/html/E-juriste"    
+set :deploy_to,   "/public_html/E-juriste"    
 set :app_path,    "app"
 
 set :repository,  "file:///home/maman/Documents/E-juriste"
