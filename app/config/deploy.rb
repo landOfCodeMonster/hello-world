@@ -5,7 +5,7 @@ set :use_sudo,	  false
 set :deploy_to,   "/home/u927408945/public_html/ejuriste_depot_beta"    
 set :app_path,    "app"
 
-set :repository,  "file:///home/maman/Documents/E-juriste"
+set :repository,  "https://github.com/landOfCodeMonster/hello-world.git"
 #set :deploy_via,  :copy
 set :scm,         :git
 # Or: `accurev`, `bzr`, `cvs`, `darcs`, `subversion`, `mercurial`, `perforce`, or `none`
