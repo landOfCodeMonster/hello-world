@@ -2,7 +2,7 @@ set :application, "E-juriste"
 set :domain,      "31.220.20.186:65002"
 set :user,		  "u927408945"
 set :use_sudo,	  false
-set :deploy_to,   "/home/u927408945/public_html/ejuriste_depot_beta"    
+set :deploy_to,   "/home/u927408945/public_html/ejuriste_depot"    
 set :app_path,    "app"
 
 set :repository,  "https://github.com/landOfCodeMonster/hello-world.git"
